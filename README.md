@@ -4,7 +4,9 @@ Contains the FrontEnd part for the Movie API application made using React,Bootst
 
 ![Screenshot_20230226_001007](https://user-images.githubusercontent.com/91898040/224483706-e4133cdf-7acd-4d80-957a-e301fca8866f.png)
 
+![Screenshot_20230226_000923](https://user-images.githubusercontent.com/91898040/224483810-572f1b54-5273-445e-b3af-47872c9612d6.png)
 
+![Screenshot_20230226_000706](https://user-images.githubusercontent.com/91898040/224483815-b66af473-1ddb-43d6-9ca9-ce3f14f61f36.png)
 
 # Getting Started with Create React App
 
