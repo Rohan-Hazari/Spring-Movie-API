@@ -1,3 +1,11 @@
+
+
+Contains the FrontEnd part for the Movie API application made using React,Bootstrap and Material UI
+
+![Screenshot_20230226_001007](https://user-images.githubusercontent.com/91898040/224483706-e4133cdf-7acd-4d80-957a-e301fca8866f.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
