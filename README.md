@@ -1,9 +1,6 @@
 
 
 Contains the FrontEnd part for the Movie API application made using React,Bootstrap and Material UI
-Features:
-Your can watch the trailers
-You can write an review
 
 
 ![Screenshot_20230226_001007](https://user-images.githubusercontent.com/91898040/224483706-e4133cdf-7acd-4d80-957a-e301fca8866f.png)
